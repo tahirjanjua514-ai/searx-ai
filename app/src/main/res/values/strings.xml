@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SEARX AI</string>
+    <string name="tagline">Smart Media Downloader &amp; AI Intelligence</string>
+    <string name="tab_download">Downloader</string>
+    <string name="tab_search">SearX Search</string>
+    <string name="tab_ai_hub">AI Insights</string>
+    <string name="tab_library">Downloads</string>
+    <string name="paste_link_hint">Paste link from YouTube, Instagram, TikTok, Facebook…</string>
+    <string name="analyze_btn">Inspect &amp; Analyze</string>
+    <string name="download_btn">Download Media</string>
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_tiktok">TikTok</string>
+    <string name="platform_instagram">Instagram</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="quality_hd">1080p HD</string>
+    <string name="quality_sd">720p</string>
+    <string name="quality_mp3">Audio (MP3)</string>
+    <string name="no_downloads">No downloads yet. Paste a link to get started!</string>
+    <string name="search_placeholder">Search videos across platforms with SearX AI…</string>
+    <string name="clear_all">Clear All</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="open_file">Open File</string>
+    <string name="share_media">Share</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+</resources>
